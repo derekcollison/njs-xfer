@@ -9,6 +9,7 @@ This sample shows how we can break a large file asset into smaller messages and 
 You will need a nats-server capable of running JetStream. We recommend at least version 2.2.1, or the latest from master.
 
 See https://docs.nats.io/jetstream/jetstream for more information on JetStream.
+
 See https://docs.nats.io/nats-server/running for running a nats-server.
 
 ## Usage
