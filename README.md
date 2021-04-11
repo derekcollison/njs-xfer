@@ -13,7 +13,7 @@ See https://docs.nats.io/nats-server/running for running a nats-server.
 
 ## Usage
 
-`
+```
 njs-xfer put <large-file>
 njs-xfer get <large-file>
-`
+````
